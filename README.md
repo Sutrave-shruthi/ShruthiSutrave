@@ -1,5 +1,5 @@
-# ShruthiSutrave
-<h1 align="center">Hi 👋, I'm Shruthi</h1>
+
+<h1 align="center">ShruthiSutrave</h1>
 
 <h3 align="center">
 Technical Support Specialist | Developer Support | Trust & Safety
